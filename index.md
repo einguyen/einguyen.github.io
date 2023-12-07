@@ -1,5 +1,7 @@
 # Hello World
 
+# Eileen Nguyen's Portfolio
+
 This is my home page! My name is Eileen Nguyen and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is computer science.
 
 ## Computer Science Projects
